@@ -12,6 +12,9 @@ UTF-8中の日本語の判別方法ですが、ひらがなやカタカナはい
 
 正確な方法ではありませんが、おおよその傾向をつかむにはこの程度でいいかなと思います。
 
+see
+[transformers多言語モデル中の日本語語彙調査](https://tech.yellowback.net/posts/transformers-japanese-characters-in-multilingual-models)
+
 ## 使い方例
 
 huggingface transformersのxlm-roberta-baseモデルの語彙から日本語っぽいものを抽出してみます。
